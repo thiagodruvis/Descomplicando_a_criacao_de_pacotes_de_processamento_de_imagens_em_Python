@@ -1,3 +1,7 @@
+# Pacote de processamento de imagem 
+
+> Modelo seguindo a aula da professora Karina Kato
+
 # image_processing
 
 Description.
