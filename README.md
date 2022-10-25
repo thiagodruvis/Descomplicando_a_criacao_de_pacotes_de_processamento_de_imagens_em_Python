@@ -1,2 +1,3 @@
-# Descomplicando_a_criacao_de_pacotes_de_processamento_de_imagens_em_Python
-Processador_de_Imagem
+# Descomplicando a criação de pacotes de processamento de imagens em Python
+
+>Processador_de_Imagem
